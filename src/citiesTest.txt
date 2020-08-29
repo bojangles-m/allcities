@@ -1,0 +1,12 @@
+893813	Chimanimani	Chimanimani	Chimanimani,Mandidzudzure,Melsetter	-19.8	32.86667	P	PPL	ZW		01				2752		1565	Africa/Harare	2013-03-12
+894239	Chegutu	Chegutu	Cheguto,Chegutu,Hartley,New Hartley	-18.13021	30.14074	P	PPL	ZW		05				47294		1187	Africa/Harare	2012-01-17
+894413	Chakari	Chakari	Chakari,Shagari	-18.06294	29.89246	P	PPL	ZW		05				6472		1107	Africa/Harare	2012-01-17
+894460	Centenary	Centenary	Centenary	-16.72289	31.11462	P	PPL	ZW		03				3388		1186	Africa/Harare	2012-01-17
+894701	Bulawayo	Bulawayo	BUQ,Bulavajas,Bulavajo,Bulavejo,Bulawayo,bu la wa yue,bullawayo,burawayo,Булавайо,Булаваё,Булавајо,Булавейо,ブラワヨ,布拉瓦约,불라와요	-20.15	28.58333	P	PPLA	ZW		09				699385		1348	Africa/Harare	2019-09-05
+895057	Binga	Binga	Binga	-17.62027	27.34139	P	PPL	ZW		06				4327		628	Africa/Harare	2012-01-17
+895061	Bindura	Bindura	Bindura,Bindura Town,Kimberley Reefs,Биндура	-17.30192	31.33056	P	PPLA	ZW		03				37423		1118	Africa/Harare	2010-08-03
+895269	Beitbridge	Beitbridge	Bajtbridz,Bajtbridzh,Beitbridge,Beitbridzas,Beitbridžas,bei te qiao,Байтбридж,Бајтбриџ,بیٹبریج,貝特橋	-22.21667	30	P	PPL	ZW		07				26459		461	Africa/Harare	2013-03-12
+895308	Beatrice	Beatrice	Beatrice	-18.25283	30.8473	P	PPL	ZW		04				1647		1307	Africa/Harare	2018-05-09
+895417	Banket	Banket	Banket,Banket Junction	-17.38333	30.4	P	PPL	ZW		05				9641		1277	Africa/Harare	2013-03-12
+1085510	Epworth	Epworth	Epworth	-17.89	31.1475	P	PPLX	ZW		10				123250		1508	Africa/Harare	2012-01-19
+1106542	Chitungwiza	Chitungwiza	Chitungviza,Chitungwiza,Chytungviza,Citungviza,chytwngwyza,Čitungviza,Читунгвиза,Читунгвіза,Чытунгвіза,چیتونگویزا	-18.01274	31.07555	P	PPL	ZW		10				340360		1435	Africa/Harare	2019-09-05

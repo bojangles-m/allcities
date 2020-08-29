@@ -1,0 +1,22 @@
+{
+  "name": "@bojangles/allcities",
+  "version": "0.0.2",
+  "description": "Cities around the world in txt files",
+  "main": "src/index.js",
+  "license": "ISC",
+  "author": "Bojan Mazej <bojan.mazej@gmail.com>",
+  "keywords": [
+    "country",
+    "state",
+    "city",
+    "json"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bojangles-m/allcities.git"
+  },
+  "bugs": {
+    "url": "https://github.com/bojangles-m/allcities/issues"
+  },
+  "homepage": "https://github.com/bojangles-m/allcities.git"
+}
