@@ -1,6 +1,6 @@
 {
   "name": "@bojangles/allcities",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "Cities around the world in txt files",
   "main": "src/index.js",
   "license": "ISC",
